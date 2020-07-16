@@ -1,0 +1,22 @@
+﻿  clock.cpp
+c:\users\www\desktop\李至霖\学习\大二下\高程\大作业\clock\project8\project8\clock.cpp(224): warning C4244: “=”: 从“double”转换到“short”，可能丢失数据
+c:\users\www\desktop\李至霖\学习\大二下\高程\大作业\clock\project8\project8\clock.cpp(225): warning C4244: “=”: 从“double”转换到“short”，可能丢失数据
+c:\users\www\desktop\李至霖\学习\大二下\高程\大作业\clock\project8\project8\clock.cpp(226): warning C4244: “=”: 从“double”转换到“short”，可能丢失数据
+c:\users\www\desktop\李至霖\学习\大二下\高程\大作业\clock\project8\project8\clock.cpp(138): warning C4101: “temp”: 未引用的局部变量
+c:\users\www\desktop\李至霖\学习\大二下\高程\大作业\clock\project8\project8\clock.cpp(245): warning C4101: “temp”: 未引用的局部变量
+c:\users\www\desktop\李至霖\学习\大二下\高程\大作业\clock\project8\project8\clock.cpp(360): warning C4244: “=”: 从“double”转换到“short”，可能丢失数据
+c:\users\www\desktop\李至霖\学习\大二下\高程\大作业\clock\project8\project8\clock.cpp(361): warning C4244: “=”: 从“double”转换到“short”，可能丢失数据
+c:\users\www\desktop\李至霖\学习\大二下\高程\大作业\clock\project8\project8\clock.cpp(362): warning C4244: “=”: 从“double”转换到“short”，可能丢失数据
+c:\users\www\desktop\李至霖\学习\大二下\高程\大作业\clock\project8\project8\clock.cpp(438): warning C4244: “=”: 从“double”转换到“short”，可能丢失数据
+c:\users\www\desktop\李至霖\学习\大二下\高程\大作业\clock\project8\project8\clock.cpp(439): warning C4244: “=”: 从“double”转换到“short”，可能丢失数据
+c:\users\www\desktop\李至霖\学习\大二下\高程\大作业\clock\project8\project8\clock.cpp(440): warning C4244: “=”: 从“double”转换到“short”，可能丢失数据
+c:\users\www\desktop\李至霖\学习\大二下\高程\大作业\clock\project8\project8\clock.cpp(516): warning C4244: “=”: 从“double”转换到“short”，可能丢失数据
+c:\users\www\desktop\李至霖\学习\大二下\高程\大作业\clock\project8\project8\clock.cpp(517): warning C4244: “=”: 从“double”转换到“short”，可能丢失数据
+c:\users\www\desktop\李至霖\学习\大二下\高程\大作业\clock\project8\project8\clock.cpp(518): warning C4244: “=”: 从“double”转换到“short”，可能丢失数据
+c:\users\www\desktop\李至霖\学习\大二下\高程\大作业\clock\project8\project8\clock.cpp(584): warning C4244: “=”: 从“double”转换到“short”，可能丢失数据
+c:\users\www\desktop\李至霖\学习\大二下\高程\大作业\clock\project8\project8\clock.cpp(585): warning C4244: “=”: 从“double”转换到“short”，可能丢失数据
+c:\users\www\desktop\李至霖\学习\大二下\高程\大作业\clock\project8\project8\clock.cpp(586): warning C4244: “=”: 从“double”转换到“short”，可能丢失数据
+  正在生成代码
+  All 32 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Project8.vcxproj -> C:\Users\www\Desktop\李至霖\学习\大二下\高程\大作业\clock\Project8\Release\clock.exe

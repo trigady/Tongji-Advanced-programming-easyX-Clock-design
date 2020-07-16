@@ -1,0 +1,2 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(Project8.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  Project8.vcxproj -> C:\Users\www\Desktop\李至霖\学习\大二下\高程\大作业\clock\Project8\Debug\clock.exe
